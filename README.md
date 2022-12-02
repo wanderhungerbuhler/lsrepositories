@@ -86,19 +86,3 @@ For the project to run 100%, you need to set the Github-specific api in your .en
 Wander Hungerbühler - whfdev@gmail.com
 
 Project Link: [LS Repositories](https://lsrepositories.vercel.app)
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-lsrepositories/README.md at master · wanderhungerbuhler/lsrepositories  Octotree
- Login with GitHub
